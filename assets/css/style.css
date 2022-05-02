@@ -1,0 +1,54 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar img {
+  width: 120px;
+}
+
+.card-title {
+  font-weight: 80;
+  font-size: medium;
+
+  margin: 0;
+}
+.precios {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: medium;
+}
+
+.text-secondary {
+  font-size: small;
+  font-weight: 80;
+}
+
+.text-secondary-2 {
+  font-weight: 80;
+  font-size: small;
+}
+
+footer {
+  text-align: center;
+}
+
+footer img {
+  width: 80px;
+}
+
+footer p {
+  font-weight: 100;
+}
+.precio_normal {
+  font-size: small;
+  text-decoration: none;
+}
+.precio_oferta {
+  font-size: medium;
+  text-decoration: none;
+}
+
+.productos {
+  margin-top: 80px;
+}
